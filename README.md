@@ -30,22 +30,22 @@ getClass()：获取学生的班级名称
 getScore(int n)：获取学生的成绩  
 motify(int n)：提醒用户输入正确的姓名和性别  
 
-* 本科生类函数：
+* 本科生类函数：  
 Display()：输出学生的成绩  
 motify(int n)：提醒用户输入正确的成绩  
 
-* 研究生类函数：
+* 研究生类函数：  
 Display()：输出学生的成绩  
 motify(int n)：提醒用户输入正确的成绩  
 
-* 班级类函数：
+* 班级类函数：  
 Display() const：输出学生的年级、学号、姓名  
 getMajor_number()：获取学生的年级编号  
 getMajor()：获取学生的年纪名称  
 getName()：获取学生的姓名  
 getID()：获取学生的学号  
 
-* 年级类函数：
+* 年级类函数：  
 Display() const：输出学生的学号、姓名  
 getName()：获取学生的姓名  
 getID()：获取学生的学号  
